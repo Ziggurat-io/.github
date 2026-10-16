@@ -9,7 +9,6 @@
 
 <p align="center">
 We build websites, applications and platforms, and the ground they stand on.<br>
-The infrastructure stays invisible: your team pushes code, and the rest just works.
 </p>
 
 ---
